@@ -1,0 +1,24 @@
+{
+  "author": "wondible",
+  "build": "59607",
+  "category": ["test"],
+  "context": "client",
+  "date": "2014/02/17",
+  "description": "Technical test for RequireJS",
+  "display_name": "RequireJS Test",
+  "enabled": true,
+  "forum": "",
+  "id": "pa_requirejs_test",
+  "identifier": "com.wondible.pa.pa_requirejs_test",
+  "global_mod_list": [
+    "coui://ui/mods/require.js"
+  ],
+  "start": [
+    "coui://ui/mods/pa_requirejs_test/bootstrap.js"
+  ],
+  "priority": 100,
+  "requires": null,
+  "signature": "not yet implemented",
+  "version": "0.0"
+}
+
